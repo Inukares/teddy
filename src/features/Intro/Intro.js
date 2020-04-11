@@ -37,7 +37,7 @@ export default (props) => {
       <Bottom>
         <div style={{ display: 'float' }}>
           <img src={images['stars.svg']} alt="github" style={{ width: 20 }} />
-          Star me on
+          Star me on {' '}
           <a href="http://github.com/inukares/teddy">github</a>
           {' '}
         </div>
